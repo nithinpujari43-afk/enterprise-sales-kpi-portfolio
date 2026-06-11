@@ -1,0 +1,6 @@
+{
+  "name": "Enterprise Sales KPI Portfolio",
+  "description": "An industry-grade Sales KPI Dashboard portfolio designed to showcase data cleaning, star schema modeling, DAX logic, advanced analytics, and recruiter-ready storytelling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
